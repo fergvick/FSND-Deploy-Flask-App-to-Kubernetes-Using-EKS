@@ -27,3 +27,4 @@ htmlcov/
 .envrc
 .direnv
 TESTS
+aws-auth-patch.yml
